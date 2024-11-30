@@ -1,7 +1,6 @@
 # Better History Browser Extension 🕒
 
-![Popup View](Xnapper-2024-11-30-11.41.59.png)
-<img src="Xnapper-2024-11-30-11.41.59.png" width="300">
+<img alt="menu image" src="Xnapper-2024-11-30-11.41.59.png" width="300">
 
 > ⚠️ **Project Status**: Development has been discontinued as better alternatives exist in the browser extension ecosystem. The project will remain archived until we identify significant improvements that would add unique value beyond existing solutions.
 
